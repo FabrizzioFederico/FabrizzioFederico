@@ -1,6 +1,6 @@
 <!-- Encabezado animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Fabrizzio+Federico;Analista+de+Sistemas+en+formaci%C3%B3n;Apasionado+por+el+desarrollo+web+y+backend" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Fabrizzio+Federico;Analista+de+Sistemas+en+formaci%C3%B3n;Apasionado+por+el+desarrollo+web+y+backend](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hola%2C+soy+Fabrizzio+Federico;" />
 </div>
 
 <!-- Sobre mí -->
