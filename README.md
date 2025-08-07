@@ -44,7 +44,7 @@ Aquí pronto compartiré algunos de mis proyectos con funcionalidades CRUD, inte
 
 Si querés colaborar, charlar sobre tecnología o simplemente conectar, podés encontrarme en:
 
-- <a href="[https://www.linkedin.com/in/fabrizziofederico](https://www.linkedin.com/in/fabrizzio-nicolas-federico-bruno-4010691b4](https://www.linkedin.com/in/fabrizzio-nicolas-federico-bruno-4010691b4/)">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/fabrizzio-nicolas-federico-bruno-4010691b4/">LinkedIn</a>
 - Email: *fabrizziofederico@hotmail.com*
 
 ---
