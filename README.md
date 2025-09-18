@@ -47,7 +47,6 @@ Si querés colaborar, charlar sobre tecnología o simplemente conectar, podés e
 - <a href="https://www.linkedin.com/in/fabrizzio-nicolas-federico-bruno-4010691b4/">LinkedIn</a>
 - Email: *fabrizziofederico@hotmail.com*
 - Paginas en Netlify:
-- Bootstrap:
 - <a href="https://quinto-proyecto-bootstrap-fabrizzio.netlify.app/">GuitarLA</a>
 - <a href="https://cuarto-proyecto-bootstrap-fabrizzio.netlify.app/">Udemy</a>
 - <a href="https://tercer-proyecto-bootstrap-fabrizzio.netlify.app/">Fabrizzio FM</a>
